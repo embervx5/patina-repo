@@ -1,0 +1,10 @@
+{
+  "packages": [
+    {
+      "name": "test_package",
+      "version": "0.1.0",
+      "url": "https://github.com/YOUR_USERNAME/patina-repo/releases/download/v0.1.0/test_package.tar.zst",
+      "dependencies": []
+    }
+  ]
+}
