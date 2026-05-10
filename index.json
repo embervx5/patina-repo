@@ -6,5 +6,11 @@
       "url": "https://github.com/embervx5/cls/releases/download/V0.1.0/cls.tar.zst",
       "dependencies": []
     }
+    {
+      "name": "screenshot",
+      "version": "0.1.0",
+      "url": "https://github.com/embervx5/screenshot/releases/download/V0.1.0/screenshot.tar.zst",
+      "dependencies": []
+    }
   ]
 }
